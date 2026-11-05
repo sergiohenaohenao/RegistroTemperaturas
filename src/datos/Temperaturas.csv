@@ -1,0 +1,601 @@
+Ciudad,Fecha,Temperatura
+Bogotá,01/01/2024,14.5
+Bogotá,02/01/2024,15.0
+Bogotá,03/01/2024,13.8
+Bogotá,04/01/2024,14.2
+Bogotá,05/01/2024,13.7
+Bogotá,06/01/2024,13.5
+Bogotá,07/01/2024,14.0
+Bogotá,08/01/2024,14.8
+Bogotá,09/01/2024,15.1
+Bogotá,10/01/2024,14.9
+Bogotá,11/01/2024,14.6
+Bogotá,12/01/2024,13.2
+Bogotá,13/01/2024,13.8
+Bogotá,14/01/2024,13.6
+Bogotá,15/01/2024,14.9
+Bogotá,16/01/2024,14.7
+Bogotá,17/01/2024,15.2
+Bogotá,18/01/2024,13.3
+Bogotá,19/01/2024,14.1
+Bogotá,20/01/2024,13.2
+Bogotá,21/01/2024,13.6
+Bogotá,22/01/2024,14.3
+Bogotá,23/01/2024,13.2
+Bogotá,24/01/2024,13.6
+Bogotá,25/01/2024,14.7
+Bogotá,26/01/2024,14.4
+Bogotá,27/01/2024,13.6
+Bogotá,28/01/2024,14.5
+Bogotá,29/01/2024,15.0
+Bogotá,30/01/2024,13.1
+Bogotá,31/01/2024,15.0
+Bogotá,01/02/2024,14.8
+Bogotá,02/02/2024,13.9
+Bogotá,03/02/2024,13.5
+Bogotá,04/02/2024,15.4
+Bogotá,05/02/2024,13.9
+Bogotá,06/02/2024,13.3
+Bogotá,07/02/2024,13.3
+Bogotá,08/02/2024,15.1
+Bogotá,09/02/2024,14.5
+Bogotá,10/02/2024,15.0
+Bogotá,11/02/2024,14.9
+Bogotá,12/02/2024,14.4
+Bogotá,13/02/2024,15.4
+Bogotá,14/02/2024,14.0
+Bogotá,15/02/2024,14.4
+Bogotá,16/02/2024,15.1
+Bogotá,17/02/2024,14.6
+Bogotá,18/02/2024,15.2
+Bogotá,19/02/2024,14.5
+Bogotá,20/02/2024,14.8
+Bogotá,21/02/2024,13.2
+Bogotá,22/02/2024,13.6
+Bogotá,23/02/2024,13.8
+Bogotá,24/02/2024,13.3
+Bogotá,25/02/2024,13.7
+Bogotá,26/02/2024,13.3
+Bogotá,27/02/2024,13.8
+Bogotá,28/02/2024,14.6
+Bogotá,29/02/2024,14.0
+Medellín,01/01/2024,22.3
+Medellín,02/01/2024,22.1
+Medellín,03/01/2024,21.9
+Medellín,04/01/2024,22.5
+Medellín,05/01/2024,21.7
+Medellín,06/01/2024,21.4
+Medellín,07/01/2024,22.0
+Medellín,08/01/2024,22.2
+Medellín,09/01/2024,22.6
+Medellín,10/01/2024,21.8
+Medellín,11/01/2024,21.7
+Medellín,12/01/2024,21.3
+Medellín,13/01/2024,21.4
+Medellín,14/01/2024,23.0
+Medellín,15/01/2024,22.4
+Medellín,16/01/2024,22.3
+Medellín,17/01/2024,21.2
+Medellín,18/01/2024,22.5
+Medellín,19/01/2024,21.2
+Medellín,20/01/2024,21.7
+Medellín,21/01/2024,23.2
+Medellín,22/01/2024,22.3
+Medellín,23/01/2024,22.1
+Medellín,24/01/2024,22.4
+Medellín,25/01/2024,22.8
+Medellín,26/01/2024,22.7
+Medellín,27/01/2024,21.3
+Medellín,28/01/2024,20.9
+Medellín,29/01/2024,21.6
+Medellín,30/01/2024,21.4
+Medellín,31/01/2024,21.3
+Medellín,01/02/2024,23.1
+Medellín,02/02/2024,22.9
+Medellín,03/02/2024,21.6
+Medellín,04/02/2024,22.4
+Medellín,05/02/2024,21.7
+Medellín,06/02/2024,23.0
+Medellín,07/02/2024,21.9
+Medellín,08/02/2024,21.4
+Medellín,09/02/2024,21.4
+Medellín,10/02/2024,22.1
+Medellín,11/02/2024,21.4
+Medellín,12/02/2024,22.2
+Medellín,13/02/2024,23.0
+Medellín,14/02/2024,21.8
+Medellín,15/02/2024,21.3
+Medellín,16/02/2024,23.2
+Medellín,17/02/2024,22.0
+Medellín,18/02/2024,21.0
+Medellín,19/02/2024,20.9
+Medellín,20/02/2024,21.1
+Medellín,21/02/2024,22.3
+Medellín,22/02/2024,22.7
+Medellín,23/02/2024,21.8
+Medellín,24/02/2024,21.0
+Medellín,25/02/2024,21.7
+Medellín,26/02/2024,23.2
+Medellín,27/02/2024,22.1
+Medellín,28/02/2024,23.1
+Medellín,29/02/2024,22.9
+Cali,01/01/2024,25.4
+Cali,02/01/2024,26.0
+Cali,03/01/2024,25.8
+Cali,04/01/2024,26.2
+Cali,05/01/2024,25.6
+Cali,06/01/2024,25.9
+Cali,07/01/2024,26.1
+Cali,08/01/2024,25.7
+Cali,09/01/2024,26.3
+Cali,10/01/2024,26.0
+Cali,11/01/2024,24.3
+Cali,12/01/2024,26.0
+Cali,13/01/2024,25.9
+Cali,14/01/2024,25.6
+Cali,15/01/2024,24.9
+Cali,16/01/2024,25.8
+Cali,17/01/2024,24.6
+Cali,18/01/2024,25.3
+Cali,19/01/2024,25.4
+Cali,20/01/2024,26.6
+Cali,21/01/2024,26.4
+Cali,22/01/2024,24.9
+Cali,23/01/2024,25.5
+Cali,24/01/2024,24.7
+Cali,25/01/2024,26.5
+Cali,26/01/2024,26.4
+Cali,27/01/2024,25.0
+Cali,28/01/2024,25.8
+Cali,29/01/2024,25.8
+Cali,30/01/2024,24.7
+Cali,31/01/2024,26.1
+Cali,01/02/2024,25.6
+Cali,02/02/2024,26.2
+Cali,03/02/2024,25.6
+Cali,04/02/2024,24.3
+Cali,05/02/2024,25.1
+Cali,06/02/2024,24.3
+Cali,07/02/2024,26.5
+Cali,08/02/2024,26.4
+Cali,09/02/2024,26.3
+Cali,10/02/2024,25.0
+Cali,11/02/2024,24.4
+Cali,12/02/2024,26.4
+Cali,13/02/2024,26.6
+Cali,14/02/2024,24.5
+Cali,15/02/2024,25.5
+Cali,16/02/2024,24.5
+Cali,17/02/2024,26.1
+Cali,18/02/2024,26.1
+Cali,19/02/2024,24.6
+Cali,20/02/2024,25.4
+Cali,21/02/2024,25.6
+Cali,22/02/2024,24.9
+Cali,23/02/2024,26.4
+Cali,24/02/2024,25.3
+Cali,25/02/2024,24.8
+Cali,26/02/2024,25.6
+Cali,27/02/2024,26.1
+Cali,28/02/2024,24.8
+Cali,29/02/2024,25.0
+Barranquilla,01/01/2024,27.9
+Barranquilla,02/01/2024,28.3
+Barranquilla,03/01/2024,28.0
+Barranquilla,04/01/2024,28.2
+Barranquilla,05/01/2024,27.8
+Barranquilla,06/01/2024,28.1
+Barranquilla,07/01/2024,28.5
+Barranquilla,08/01/2024,27.7
+Barranquilla,09/01/2024,28.4
+Barranquilla,10/01/2024,28.2
+Barranquilla,11/01/2024,29.2
+Barranquilla,12/01/2024,28.4
+Barranquilla,13/01/2024,27.9
+Barranquilla,14/01/2024,28.0
+Barranquilla,15/01/2024,27.1
+Barranquilla,16/01/2024,27.3
+Barranquilla,17/01/2024,27.6
+Barranquilla,18/01/2024,28.2
+Barranquilla,19/01/2024,27.4
+Barranquilla,20/01/2024,27.3
+Barranquilla,21/01/2024,27.0
+Barranquilla,22/01/2024,28.3
+Barranquilla,23/01/2024,27.3
+Barranquilla,24/01/2024,29.0
+Barranquilla,25/01/2024,28.9
+Barranquilla,26/01/2024,27.0
+Barranquilla,27/01/2024,27.4
+Barranquilla,28/01/2024,28.4
+Barranquilla,29/01/2024,27.3
+Barranquilla,30/01/2024,27.1
+Barranquilla,31/01/2024,29.0
+Barranquilla,01/02/2024,28.2
+Barranquilla,02/02/2024,27.9
+Barranquilla,03/02/2024,28.7
+Barranquilla,04/02/2024,28.7
+Barranquilla,05/02/2024,27.3
+Barranquilla,06/02/2024,27.0
+Barranquilla,07/02/2024,27.8
+Barranquilla,08/02/2024,27.8
+Barranquilla,09/02/2024,27.9
+Barranquilla,10/02/2024,28.5
+Barranquilla,11/02/2024,28.4
+Barranquilla,12/02/2024,29.2
+Barranquilla,13/02/2024,27.0
+Barranquilla,14/02/2024,27.8
+Barranquilla,15/02/2024,27.6
+Barranquilla,16/02/2024,28.9
+Barranquilla,17/02/2024,27.4
+Barranquilla,18/02/2024,27.3
+Barranquilla,19/02/2024,27.9
+Barranquilla,20/02/2024,27.8
+Barranquilla,21/02/2024,27.5
+Barranquilla,22/02/2024,27.4
+Barranquilla,23/02/2024,29.0
+Barranquilla,24/02/2024,27.9
+Barranquilla,25/02/2024,28.9
+Barranquilla,26/02/2024,28.1
+Barranquilla,27/02/2024,26.9
+Barranquilla,28/02/2024,29.2
+Barranquilla,29/02/2024,28.8
+Cartagena,01/01/2024,28.5
+Cartagena,02/01/2024,29.1
+Cartagena,03/01/2024,28.9
+Cartagena,04/01/2024,29.2
+Cartagena,05/01/2024,28.7
+Cartagena,06/01/2024,28.4
+Cartagena,07/01/2024,29.0
+Cartagena,08/01/2024,28.6
+Cartagena,09/01/2024,29.3
+Cartagena,10/01/2024,29.1
+Cartagena,11/01/2024,29.6
+Cartagena,12/01/2024,29.5
+Cartagena,13/01/2024,29.3
+Cartagena,14/01/2024,27.7
+Cartagena,15/01/2024,28.5
+Cartagena,16/01/2024,27.8
+Cartagena,17/01/2024,28.3
+Cartagena,18/01/2024,27.4
+Cartagena,19/01/2024,28.2
+Cartagena,20/01/2024,29.7
+Cartagena,21/01/2024,27.9
+Cartagena,22/01/2024,29.2
+Cartagena,23/01/2024,28.4
+Cartagena,24/01/2024,28.3
+Cartagena,25/01/2024,29.6
+Cartagena,26/01/2024,29.7
+Cartagena,27/01/2024,28.6
+Cartagena,28/01/2024,29.0
+Cartagena,29/01/2024,27.7
+Cartagena,30/01/2024,28.0
+Cartagena,31/01/2024,29.6
+Cartagena,01/02/2024,28.7
+Cartagena,02/02/2024,28.6
+Cartagena,03/02/2024,29.1
+Cartagena,04/02/2024,27.4
+Cartagena,05/02/2024,28.7
+Cartagena,06/02/2024,28.5
+Cartagena,07/02/2024,29.3
+Cartagena,08/02/2024,27.7
+Cartagena,09/02/2024,29.6
+Cartagena,10/02/2024,27.5
+Cartagena,11/02/2024,27.7
+Cartagena,12/02/2024,28.7
+Cartagena,13/02/2024,28.9
+Cartagena,14/02/2024,27.9
+Cartagena,15/02/2024,27.6
+Cartagena,16/02/2024,29.4
+Cartagena,17/02/2024,27.9
+Cartagena,18/02/2024,28.7
+Cartagena,19/02/2024,28.8
+Cartagena,20/02/2024,28.3
+Cartagena,21/02/2024,28.7
+Cartagena,22/02/2024,28.6
+Cartagena,23/02/2024,29.5
+Cartagena,24/02/2024,27.8
+Cartagena,25/02/2024,29.0
+Cartagena,26/02/2024,27.9
+Cartagena,27/02/2024,28.2
+Cartagena,28/02/2024,28.9
+Cartagena,29/02/2024,28.0
+Bucaramanga,01/01/2024,23.1
+Bucaramanga,02/01/2024,24.1
+Bucaramanga,03/01/2024,22.5
+Bucaramanga,04/01/2024,23.4
+Bucaramanga,05/01/2024,24.7
+Bucaramanga,06/01/2024,24.7
+Bucaramanga,07/01/2024,22.5
+Bucaramanga,08/01/2024,22.8
+Bucaramanga,09/01/2024,22.9
+Bucaramanga,10/01/2024,24.5
+Bucaramanga,11/01/2024,24.4
+Bucaramanga,12/01/2024,24.4
+Bucaramanga,13/01/2024,23.2
+Bucaramanga,14/01/2024,22.7
+Bucaramanga,15/01/2024,24.3
+Bucaramanga,16/01/2024,24.0
+Bucaramanga,17/01/2024,23.8
+Bucaramanga,18/01/2024,24.7
+Bucaramanga,19/01/2024,23.9
+Bucaramanga,20/01/2024,22.3
+Bucaramanga,21/01/2024,24.3
+Bucaramanga,22/01/2024,23.0
+Bucaramanga,23/01/2024,23.9
+Bucaramanga,24/01/2024,24.6
+Bucaramanga,25/01/2024,22.6
+Bucaramanga,26/01/2024,22.6
+Bucaramanga,27/01/2024,22.6
+Bucaramanga,28/01/2024,23.6
+Bucaramanga,29/01/2024,23.0
+Bucaramanga,30/01/2024,23.8
+Bucaramanga,31/01/2024,24.0
+Bucaramanga,01/02/2024,22.8
+Bucaramanga,02/02/2024,23.8
+Bucaramanga,03/02/2024,22.9
+Bucaramanga,04/02/2024,23.5
+Bucaramanga,05/02/2024,24.5
+Bucaramanga,06/02/2024,24.3
+Bucaramanga,07/02/2024,22.5
+Bucaramanga,08/02/2024,23.3
+Bucaramanga,09/02/2024,23.0
+Bucaramanga,10/02/2024,22.3
+Bucaramanga,11/02/2024,24.2
+Bucaramanga,12/02/2024,23.8
+Bucaramanga,13/02/2024,22.9
+Bucaramanga,14/02/2024,24.1
+Bucaramanga,15/02/2024,23.6
+Bucaramanga,16/02/2024,23.3
+Bucaramanga,17/02/2024,22.3
+Bucaramanga,18/02/2024,22.5
+Bucaramanga,19/02/2024,24.4
+Bucaramanga,20/02/2024,24.5
+Bucaramanga,21/02/2024,23.6
+Bucaramanga,22/02/2024,24.3
+Bucaramanga,23/02/2024,23.7
+Bucaramanga,24/02/2024,22.7
+Bucaramanga,25/02/2024,22.6
+Bucaramanga,26/02/2024,23.0
+Bucaramanga,27/02/2024,24.5
+Bucaramanga,28/02/2024,24.2
+Bucaramanga,29/02/2024,24.4
+Pereira,01/01/2024,23.5
+Pereira,02/01/2024,21.8
+Pereira,03/01/2024,21.9
+Pereira,04/01/2024,21.5
+Pereira,05/01/2024,23.2
+Pereira,06/01/2024,23.4
+Pereira,07/01/2024,22.3
+Pereira,08/01/2024,22.8
+Pereira,09/01/2024,21.7
+Pereira,10/01/2024,23.5
+Pereira,11/01/2024,23.4
+Pereira,12/01/2024,23.6
+Pereira,13/01/2024,23.2
+Pereira,14/01/2024,23.4
+Pereira,15/01/2024,21.4
+Pereira,16/01/2024,23.1
+Pereira,17/01/2024,22.1
+Pereira,18/01/2024,23.5
+Pereira,19/01/2024,23.2
+Pereira,20/01/2024,23.4
+Pereira,21/01/2024,23.2
+Pereira,22/01/2024,21.9
+Pereira,23/01/2024,23.2
+Pereira,24/01/2024,21.6
+Pereira,25/01/2024,23.4
+Pereira,26/01/2024,23.4
+Pereira,27/01/2024,21.8
+Pereira,28/01/2024,23.3
+Pereira,29/01/2024,22.4
+Pereira,30/01/2024,22.0
+Pereira,31/01/2024,23.2
+Pereira,01/02/2024,21.8
+Pereira,02/02/2024,21.4
+Pereira,03/02/2024,21.8
+Pereira,04/02/2024,22.1
+Pereira,05/02/2024,23.4
+Pereira,06/02/2024,23.6
+Pereira,07/02/2024,22.0
+Pereira,08/02/2024,22.8
+Pereira,09/02/2024,22.3
+Pereira,10/02/2024,23.7
+Pereira,11/02/2024,22.6
+Pereira,12/02/2024,23.6
+Pereira,13/02/2024,21.6
+Pereira,14/02/2024,23.6
+Pereira,15/02/2024,21.7
+Pereira,16/02/2024,23.6
+Pereira,17/02/2024,21.9
+Pereira,18/02/2024,21.6
+Pereira,19/02/2024,22.3
+Pereira,20/02/2024,23.0
+Pereira,21/02/2024,22.1
+Pereira,22/02/2024,22.8
+Pereira,23/02/2024,22.5
+Pereira,24/02/2024,22.2
+Pereira,25/02/2024,22.7
+Pereira,26/02/2024,21.9
+Pereira,27/02/2024,23.0
+Pereira,28/02/2024,21.3
+Pereira,29/02/2024,23.5
+Cúcuta,01/01/2024,29.6
+Cúcuta,02/01/2024,30.0
+Cúcuta,03/01/2024,30.1
+Cúcuta,04/01/2024,29.9
+Cúcuta,05/01/2024,29.2
+Cúcuta,06/01/2024,28.5
+Cúcuta,07/01/2024,29.9
+Cúcuta,08/01/2024,29.1
+Cúcuta,09/01/2024,29.1
+Cúcuta,10/01/2024,30.3
+Cúcuta,11/01/2024,30.0
+Cúcuta,12/01/2024,29.0
+Cúcuta,13/01/2024,29.0
+Cúcuta,14/01/2024,29.3
+Cúcuta,15/01/2024,29.3
+Cúcuta,16/01/2024,29.0
+Cúcuta,17/01/2024,28.6
+Cúcuta,18/01/2024,29.3
+Cúcuta,19/01/2024,30.6
+Cúcuta,20/01/2024,29.9
+Cúcuta,21/01/2024,30.5
+Cúcuta,22/01/2024,29.8
+Cúcuta,23/01/2024,29.0
+Cúcuta,24/01/2024,29.6
+Cúcuta,25/01/2024,28.3
+Cúcuta,26/01/2024,29.0
+Cúcuta,27/01/2024,29.3
+Cúcuta,28/01/2024,29.7
+Cúcuta,29/01/2024,29.9
+Cúcuta,30/01/2024,29.4
+Cúcuta,31/01/2024,29.4
+Cúcuta,01/02/2024,28.8
+Cúcuta,02/02/2024,29.4
+Cúcuta,03/02/2024,30.5
+Cúcuta,04/02/2024,30.2
+Cúcuta,05/02/2024,28.7
+Cúcuta,06/02/2024,28.5
+Cúcuta,07/02/2024,29.5
+Cúcuta,08/02/2024,29.8
+Cúcuta,09/02/2024,29.1
+Cúcuta,10/02/2024,30.3
+Cúcuta,11/02/2024,30.1
+Cúcuta,12/02/2024,29.9
+Cúcuta,13/02/2024,28.8
+Cúcuta,14/02/2024,28.8
+Cúcuta,15/02/2024,28.4
+Cúcuta,16/02/2024,28.9
+Cúcuta,17/02/2024,29.4
+Cúcuta,18/02/2024,30.3
+Cúcuta,19/02/2024,28.5
+Cúcuta,20/02/2024,29.3
+Cúcuta,21/02/2024,29.8
+Cúcuta,22/02/2024,28.8
+Cúcuta,23/02/2024,30.0
+Cúcuta,24/02/2024,29.5
+Cúcuta,25/02/2024,28.9
+Cúcuta,26/02/2024,29.9
+Cúcuta,27/02/2024,28.3
+Cúcuta,28/02/2024,30.1
+Cúcuta,29/02/2024,30.1
+Santa Marta,01/01/2024,27.9
+Santa Marta,02/01/2024,28.6
+Santa Marta,03/01/2024,28.0
+Santa Marta,04/01/2024,29.9
+Santa Marta,05/01/2024,28.8
+Santa Marta,06/01/2024,27.7
+Santa Marta,07/01/2024,28.2
+Santa Marta,08/01/2024,29.6
+Santa Marta,09/01/2024,28.7
+Santa Marta,10/01/2024,29.5
+Santa Marta,11/01/2024,29.2
+Santa Marta,12/01/2024,30.0
+Santa Marta,13/01/2024,29.0
+Santa Marta,14/01/2024,29.9
+Santa Marta,15/01/2024,29.7
+Santa Marta,16/01/2024,29.1
+Santa Marta,17/01/2024,29.3
+Santa Marta,18/01/2024,28.8
+Santa Marta,19/01/2024,29.6
+Santa Marta,20/01/2024,28.9
+Santa Marta,21/01/2024,29.8
+Santa Marta,22/01/2024,29.4
+Santa Marta,23/01/2024,28.7
+Santa Marta,24/01/2024,28.2
+Santa Marta,25/01/2024,28.2
+Santa Marta,26/01/2024,29.1
+Santa Marta,27/01/2024,29.4
+Santa Marta,28/01/2024,28.9
+Santa Marta,29/01/2024,29.1
+Santa Marta,30/01/2024,28.3
+Santa Marta,31/01/2024,27.8
+Santa Marta,01/02/2024,28.3
+Santa Marta,02/02/2024,28.3
+Santa Marta,03/02/2024,28.4
+Santa Marta,04/02/2024,28.9
+Santa Marta,05/02/2024,27.9
+Santa Marta,06/02/2024,28.2
+Santa Marta,07/02/2024,29.3
+Santa Marta,08/02/2024,29.3
+Santa Marta,09/02/2024,27.8
+Santa Marta,10/02/2024,28.6
+Santa Marta,11/02/2024,28.9
+Santa Marta,12/02/2024,28.6
+Santa Marta,13/02/2024,28.1
+Santa Marta,14/02/2024,28.6
+Santa Marta,15/02/2024,29.8
+Santa Marta,16/02/2024,29.0
+Santa Marta,17/02/2024,29.3
+Santa Marta,18/02/2024,29.7
+Santa Marta,19/02/2024,29.4
+Santa Marta,20/02/2024,28.5
+Santa Marta,21/02/2024,27.6
+Santa Marta,22/02/2024,28.4
+Santa Marta,23/02/2024,29.4
+Santa Marta,24/02/2024,29.6
+Santa Marta,25/02/2024,29.9
+Santa Marta,26/02/2024,28.6
+Santa Marta,27/02/2024,29.4
+Santa Marta,28/02/2024,28.9
+Santa Marta,29/02/2024,29.0
+Manizales,01/01/2024,16.8
+Manizales,02/01/2024,16.8
+Manizales,03/01/2024,17.3
+Manizales,04/01/2024,16.4
+Manizales,05/01/2024,17.1
+Manizales,06/01/2024,17.9
+Manizales,07/01/2024,17.3
+Manizales,08/01/2024,16.7
+Manizales,09/01/2024,17.4
+Manizales,10/01/2024,16.6
+Manizales,11/01/2024,17.8
+Manizales,12/01/2024,16.4
+Manizales,13/01/2024,17.2
+Manizales,14/01/2024,17.7
+Manizales,15/01/2024,16.4
+Manizales,16/01/2024,17.8
+Manizales,17/01/2024,16.6
+Manizales,18/01/2024,17.4
+Manizales,19/01/2024,16.4
+Manizales,20/01/2024,17.2
+Manizales,21/01/2024,16.8
+Manizales,22/01/2024,17.1
+Manizales,23/01/2024,18.1
+Manizales,24/01/2024,17.2
+Manizales,25/01/2024,18.1
+Manizales,26/01/2024,18.3
+Manizales,27/01/2024,16.9
+Manizales,28/01/2024,16.5
+Manizales,29/01/2024,16.3
+Manizales,30/01/2024,17.6
+Manizales,31/01/2024,18.7
+Manizales,01/02/2024,17.1
+Manizales,02/02/2024,17.9
+Manizales,03/02/2024,18.2
+Manizales,04/02/2024,17.9
+Manizales,05/02/2024,18.1
+Manizales,06/02/2024,18.6
+Manizales,07/02/2024,16.8
+Manizales,08/02/2024,16.3
+Manizales,09/02/2024,16.7
+Manizales,10/02/2024,16.6
+Manizales,11/02/2024,17.9
+Manizales,12/02/2024,17.7
+Manizales,13/02/2024,16.8
+Manizales,14/02/2024,18.0
+Manizales,15/02/2024,18.1
+Manizales,16/02/2024,16.7
+Manizales,17/02/2024,17.8
+Manizales,18/02/2024,18.1
+Manizales,19/02/2024,16.6
+Manizales,20/02/2024,18.3
+Manizales,21/02/2024,18.6
+Manizales,22/02/2024,16.6
+Manizales,23/02/2024,16.4
+Manizales,24/02/2024,17.0
+Manizales,25/02/2024,17.9
+Manizales,26/02/2024,18.6
+Manizales,27/02/2024,17.3
+Manizales,28/02/2024,18.0
+Manizales,29/02/2024,16.5
